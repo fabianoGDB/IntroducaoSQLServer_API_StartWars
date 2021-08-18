@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\#_DIO PRO\\12 Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET_DIO PRO\\ControleAcessoEstrelaDaMorte-master\\src\\ConroleAcesso\\ConroleAcesso.csproj": {}
+  },
+  "projects": {
+    "E:\\#_DIO PRO\\12 Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET_DIO PRO\\ControleAcessoEstrelaDaMorte-master\\src\\ConroleAcesso\\ConroleAcesso.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\#_DIO PRO\\12 Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET_DIO PRO\\ControleAcessoEstrelaDaMorte-master\\src\\ConroleAcesso\\ConroleAcesso.csproj",
+        "projectName": "ConroleAcesso",
+        "projectPath": "E:\\#_DIO PRO\\12 Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET_DIO PRO\\ControleAcessoEstrelaDaMorte-master\\src\\ConroleAcesso\\ConroleAcesso.csproj",
+        "packagesPath": "C:\\Users\\WINSSD\\.nuget\\packages\\",
+        "outputPath": "E:\\#_DIO PRO\\12 Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET_DIO PRO\\ControleAcessoEstrelaDaMorte-master\\src\\ConroleAcesso\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\WINSSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\src\\leonardo_bianch\\curso-dio-arquitetura-back-e-front-end-main": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
